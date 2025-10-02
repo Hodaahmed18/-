@@ -1,4 +1,4 @@
-# -# 𓂃-hoda ✦ Junior SysAdmin ✿
+# -# 𓂃-ʜᴏᴅᴀ✦ Junior SysAdmin ✿
 
 > Turning chaos into order ☁ RHCSA (RHEL9) prep | Practical IT & server mastery 
 
