@@ -18,6 +18,7 @@
 | Certification | Status |
 |--------------|--------|
 | Red Hat Certified System Administrator (RHCSA) | ✅ Certified |
+| Splunk Core Certified Power User | 🔄 In Progress |
 | Certified Kubernetes Administrator (CKA) | 📅 Planned |
 
 
