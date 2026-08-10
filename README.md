@@ -1,4 +1,4 @@
-# Hey, I'm Hoda 👋
+# Hey, I'm Hoda 👋🏾
 🎯 Junior DevOps Engineer · London, UK
 🏅 RHCSA Certified
 ⚙️ Building on AWS · Linux · Docker · Kubernetes · CI/CD
