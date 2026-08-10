@@ -19,8 +19,7 @@
 |--------------|--------|
 | Red Hat Certified System Administrator (RHCSA) | ✅ Certified |
 | Certified Kubernetes Administrator (CKA) | 📅 Planned |
-| AWS Solutions Architect Associate | 📅 Planned |
-| CompTIA Security+ (SY0-701) | 📅 Planned |
+
 
 ---
 
